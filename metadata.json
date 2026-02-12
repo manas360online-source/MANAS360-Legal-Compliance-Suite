@@ -1,0 +1,7 @@
+{
+  "name": "MANAS360 Legal Compliance Suite",
+  "description": "A centralized legal document management and compliance platform for digital health providers, featuring DPDPA compliance, digital signatures, and NRI jurisdiction waivers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
